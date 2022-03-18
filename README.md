@@ -10,10 +10,10 @@ Armstrong number is a number that is equal to the sum of cubes of its digits. Fo
 
 Let's try to understand why 153 is an Armstrong number.
 
-<img src="https://drive.google.com/file/d/188dwI9kCkn8IN6GF7ag_vEFkX5WWE97t/view?usp=sharing" height="300" width="1000"> <br>
+<img src="https://drive.google.com/file/d/188dwI9kCkn8IN6GF7ag_vEFkX5WWE97t/view?usp=sharing" height="300" width="700"> <br>
 
-<img src="https://drive.google.com/file/d/1A_FhWG0EBchrYx8ZtSr4lp4I9XGgtmpt/view?usp=sharing" height="300" width="1000"><br>
+<img src="https://drive.google.com/file/d/1A_FhWG0EBchrYx8ZtSr4lp4I9XGgtmpt/view?usp=sharing" height="300" width="700"><br>
 
 <h2>OUTPUT TERMINAL</h1>
 
-<img src="https://drive.google.com/file/d/1UKZ1h6-HhX4AeG36RivotfZlX2fb5RRz/view?usp=sharing" height="300" width="1000">
+<img src="https://drive.google.com/file/d/1UKZ1h6-HhX4AeG36RivotfZlX2fb5RRz/view?usp=sharing" height="300" width="700">
