@@ -10,10 +10,10 @@ Armstrong number is a number that is equal to the sum of cubes of its digits. Fo
 
 Let's try to understand why 153 is an Armstrong number.
 
-<img src="https://github.com/frostbyte012/Armstrong-Number-in-C/blob/main/arm_strong/arm_strong_1.png?raw=true" height="300" width="700"> <br>
+<img src="https://github.com/frostbyte012/Armstrong-Number-in-C/blob/main/arm_strong/arm_strong_1.png?raw=true" height="300" width="1000"> <br>
 
-<img src="https://github.com/frostbyte012/Armstrong-Number-in-C/blob/main/arm_strong/arm_strong_2.png?raw=true" height="300" width="700"><br>
+<img src="https://github.com/frostbyte012/Armstrong-Number-in-C/blob/main/arm_strong/arm_strong_2.png?raw=true" height="300" width="1000"><br>
 
 <h2>OUTPUT TERMINAL</h1>
 
-<img src="https://github.com/frostbyte012/Armstrong-Number-in-C/blob/main/arm_strong/out_put.png?raw=true" height="300" width="700">
+<img src="https://github.com/frostbyte012/Armstrong-Number-in-C/blob/main/arm_strong/out_put.png?raw=true" height="300" width="1000">
